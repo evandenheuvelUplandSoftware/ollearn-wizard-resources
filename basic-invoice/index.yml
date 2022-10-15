@@ -4,8 +4,9 @@ by: Upland Objectif Lune
 author: Erik van den Heuvel
 version: 2022.2
 type: template
+mode: download
 features:
-- Format: A4
+- "Format: A4"
 - Address block using Handlebars Text Helper
 - Virtual stationery background
 excerpt: This business letter merges standard recipient information and is fully customizable. Replace the stationery image with your letterhead and update the formatting to match your corporate identity.

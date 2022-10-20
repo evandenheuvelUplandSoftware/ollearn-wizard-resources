@@ -4,7 +4,7 @@ by: Upland Objectif Lune
 author: Erik van den Heuvel
 version: 2022.2
 type: template
-context: print
+category: print
 mode: download
 features:
 - "Format: A4"

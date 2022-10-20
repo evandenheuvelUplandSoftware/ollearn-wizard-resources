@@ -6,7 +6,7 @@ version: 2022.2
 type: template
 category: print
 mode: download
-excerpt: This template merges standard recipient information and uses a data field to skip/print sections. Replace the stationery image with your letterhead and update the formatting to match your corporate identity.
+excerpt: This template merges recipient information and uses a data field to dynamically skip/print sections. Replace the stationery image with your letterhead and update the formatting to match your corporate identity.
 features:
 - "Format: A4"
 - Conditional print sections

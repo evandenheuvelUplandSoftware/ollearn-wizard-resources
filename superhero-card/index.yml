@@ -1,0 +1,15 @@
+---
+title: Superhero card
+by: Upland Objectif Lune
+author: Erik van den Heuvel
+version: 2022.2
+type: template
+category: print
+mode: download
+excerpt: Hello world superhero
+features:
+- "Format: A4"
+- Copy fit text
+- XML datamap
+comments: Some comments from the author
+...

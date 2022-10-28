@@ -1,0 +1,17 @@
+---
+title: Letter Business Bank
+by: Upland Objectif Lune
+author: Erik van den Heuvel
+version: 2022.2
+type: template
+category: print
+mode: download
+excerpt: This template merges recipient information and uses a data field to dynamically loads the address of the bank branch sending the letter. Replace the stationery image with your letterhead and update the formatting to match your corporate identity.
+
+features:
+- "Format: A4"
+- Loads branch address from snippet
+- Inserts today's date
+- Different master pages the first page and continuation pages.
+comments: Some comments from the author
+...

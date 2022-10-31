@@ -1,0 +1,16 @@
+---
+title: OL Acme invoice
+by: Upland Objectif Lune
+author: Erik van den Heuvel
+version: 2022.2
+type: template
+category: print
+mode: download
+excerpt: Invoice template with a dynamic detail table that runs across multiple pages. Uses a Locale from the data to format currencies and dates.
+features:
+- "Format: Letter"
+- XML datamap
+- Detail table with running totals
+- Uses a Locale to format currencies and dates
+comments: Some comments from the author
+...

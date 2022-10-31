@@ -1,0 +1,17 @@
+---
+title: Travle postcard
+by: Upland Objectif Lune
+author: Erik van den Heuvel
+version: 2022.2
+type: template
+category: print
+mode: download
+excerpt: This template uses data to dynamically switch the background of a print section (image designed using resources from Freepik.com). Replace with your own images.
+features:
+- "Format: A5"
+- Copy fit text
+- CSV datamap
+- Dynamic section background
+- Handlebars Text helper to construct the address string
+comments: Some comments from the author
+...
